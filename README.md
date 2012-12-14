@@ -1,4 +1,7 @@
+
 public
 ======
 
-My public self
+My public self.
+
+Inspired by [busterbenson](https://github.com/busterbenson/public)
